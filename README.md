@@ -3,7 +3,9 @@
 Project specification: ProjectSpec.pdf
 
 Group project (8 members)
+
 Using SVN for source control and Trac for project management/tickets.
+
 I acted as a team leader in this project.
 
 ---
