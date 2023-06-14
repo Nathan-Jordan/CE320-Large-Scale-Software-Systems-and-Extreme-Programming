@@ -1,8 +1,10 @@
 # CE320-Large-Scale-Software-Systems-and-Extreme-Programming
 
+Group project in Java consisting of 2 iterations 3 weeks each.
+
 Project specification: ProjectSpec.pdf
 
-Group project (8 members)
+8 members.
 
 Using SVN for source control and Trac for project management/tickets.
 
