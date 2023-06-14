@@ -1,0 +1,21 @@
+as a user ifd ;oike to generate the test for an email
+as a user idl liker tio system to gwenerate those emailsd
+as a user id lto be able to cancel
+as a user id ;like to be able to set thwe templeate in a way that the systme would be able to read the file
+
+
+start off with commsnd promt snd date 
+confirm booking and then it would produce the tect to coppy paste
+as a user id ;like to be able to set thwe templeate in a way that the systme would be able to read the file
+formmated ouitput
+display of dates is prefreed 
+need to type who its booked by
+send email with a attachment *optional
+
+need to estimeat how long a story will take to complete
+
+
+branches 
+trunk 
+tags#
+sandboxes
