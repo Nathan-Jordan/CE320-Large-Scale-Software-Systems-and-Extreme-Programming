@@ -1,0 +1,10 @@
+Date,H1,firstName,surname,email,phoneNumber,status,H2,firstName,surname,email,phoneNumber,status
+01/01/2022,H1,Dave,Davids,Dave123@gmail.com,03126 60458,Provisionally Booked,H2,Sarah,Peters,sarahp123@gmail.com,87498 389493,Confirmed
+02/01/2022,H1,Dave,Davids,Dave123@gmail.com,03126 60458,Provisionally Booked,H2,Sarah,Peters,sarahp123@gmail.com,87498 389493,Confirmed
+03/01/2022,H1,Dave,Davids,Dave123@gmail.com,03126 60458,Provisionally Booked,H2,,,,,
+04/01/2022,H1,,,,,,H2,,,,,
+05/01/2022,H1,Nathan,Jordan,nj19061@essex.ac.uk,984523450,Form Submitted,H2,,,,,
+06/01/2022,H1,,,,,,H2,,,,,
+07/01/2022,H1,Joe,Blogs,joeblogs@gmail.com,15324232,Confirmed,H2,,,,,
+08/01/2022,H1,,,,,,H2,,,,,
+09/01/2022,H1,,,,,,H2,,,,,
